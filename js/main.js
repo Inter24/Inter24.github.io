@@ -7,6 +7,7 @@ text.addEventListener('input', (event) => {
 });
 
 submit.addEventListener('click', (event) => {
+    
     event.preventDefault();  
     var message = document.querySelector('#text').value;  
     alert('Спасибо за нажатие на нашу замечательную кнопку. Значение вашего поля — ' + message);
