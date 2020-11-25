@@ -1,20 +1,8 @@
-.calc-row {
+.game-card {
     height: 100vh;
-    font-family: 'Share Tech Mono', monospace;
+    font-family: 'Open Sans', monospace;
 }
 
-.input-window {
-    text-align: end;
-    font-size: x-large;
-    margin-bottom:2px;
-}
-
-
-.no-gutters .col {
-    margin-right:2px;
-    margin-bottom:2px;
-}
-
-.no-gutters .col:nth-child(4n), .no-gutters .col.first {
-    margin-right:0px;
+.hide {
+    display:none;
 }
