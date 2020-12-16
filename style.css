@@ -1,8 +1,4 @@
-.game-card {
-    height: 100vh;
-    font-family: 'Open Sans', monospace;
-}
-
-.hide {
-    display:none;
+body {background:#ccc;}
+.container {    
+    margin-top:10%;
 }
